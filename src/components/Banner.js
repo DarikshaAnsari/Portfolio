@@ -6,7 +6,7 @@ import { Canvas } from "@react-three/fiber";
 import { OrbitControls } from "@react-three/drei";
 import CanvasLoader from "./Loader";
 import { motion } from "framer-motion";
-import resume from "../assets/Dariksha11.pdf"
+import resume from "../assets/DarikshaResume.pdf"
 
 export const Banner = () => {
   const [isMobile, setIsMobile] = useState(false);
